@@ -1,0 +1,37 @@
+{
+    "beam_diameter": "",
+    "cleanup_duration": 30.0,
+    "commit": "3b4a07d5cecd0414e2c21101139dd47fac8e5228",
+    "cryo_temperature": 0.0,
+    "extract_device": "NMGRL Furnace",
+    "extract_duration": 1320.0,
+    "extract_units": "temp",
+    "extract_value": 550.0,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "---",
+    "load_name": "F0020",
+    "measured_response": "QkrCTgAAAAAAINk5AACgQcbu/z8AAKBB2A6AQAAAoEEWB8BAAACgQev//0AAAKBBfPwfQQAAoEHM+D9BAACgQRD1X0EAAKBBePF/QQAAoEEC949BAACgQSH1n0EAAKBBNfOvQQAAoEG8+79BAACgQd35z0EAAKBBIvnfQQAAoEE09+9BAACgQVD1/0EAAKBB",
+    "pattern": "",
+    "pid": "HO,20;XP,300;TI,25;TD,3;LB,708;HB,100",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 3,
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "QkrCTgAAAAAAINk5AAAAAMbu/z8AAAAA2A6AQAAAkEEWB8BAAACQQev//0AAAJBBfPwfQQAAkEHM+D9BAACQQRD1X0EAAJBBePF/QQAAAAAC949BAAAAACH1n0EAAAAANfOvQQAAAAC8+79BAAAAAN35z0EAAAAAIvnfQZqZmT409+9Bmpn5QFD1/0GamXlB",
+    "setpoint_stream": "QkrCTgAAAAAAINk5AAAAAMbu/z8AAAAA2A6AQACACUQWB8BAAIAJROv//0AAgAlEfPwfQQCACUTM+D9BAIAJRBD1X0EAgAlEePF/QQAAlkMC949BAACWQyH1n0EAAJZDNfOvQQAAlkO8+79BAACWQ935z0EAAJZDIvnfQQAAlkM09+9BAACWQ1D1/0EAAJZD",
+    "snapshots": [],
+    "tray": "---",
+    "videos": [],
+    "weight": 9.34
+}
