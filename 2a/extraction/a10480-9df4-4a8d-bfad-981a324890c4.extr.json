@@ -1,0 +1,37 @@
+{
+    "beam_diameter": "",
+    "cleanup_duration": 30.0,
+    "commit": "49c35e6c49fc6d7048f8a7ceaa057b52616562cc",
+    "cryo_temperature": 0.0,
+    "extract_device": "NMGRL Furnace",
+    "extract_duration": 14520.0,
+    "extract_units": "temp",
+    "extract_value": 1200.0,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "37-hole",
+    "load_name": "F0021",
+    "measured_response": "przCTgAAAAAA0D46AIDHQy4AAEAAgMdDEvZ/QAAAx0Of9r9AAIDHQ8D6/0AAAMtDXf0fQQCA00Os/T9BAIDdQ2r9X0EAAOVDmPx/QQCA6UPU/o9BAIDrQ9j+n0EAAOxD",
+    "pattern": "",
+    "pid": "HO,10;XP,10;TI,48;TD,8",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 3,
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "przCTgAAAAAA0D46MzPjQC4AAEDNzOxAEvZ/QAAA4EGf9r9AAADgQcD6/0AAAOBBXf0fQQAAAACs/T9BAAAAAGr9X0EAAAAAmPx/QQAAAADU/o9BAAAAANj+n0EAAAAA",
+    "setpoint_stream": "przCTgAAAAAA0D46AADIQy4AAEAAAMhDEvZ/QAAAlkSf9r9AAACWRMD6/0AAAJZEXf0fQQAAAACs/T9BAAAAAGr9X0EAAAAAmPx/QQAAAADU/o9BAAAAANj+n0EAAAAA",
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 8.0
+}
