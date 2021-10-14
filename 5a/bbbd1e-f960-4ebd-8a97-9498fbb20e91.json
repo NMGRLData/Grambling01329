@@ -1,0 +1,244 @@
+{
+    "acquisition_software": "pychron 20.1.1",
+    "aliquot": 1,
+    "analysis_type": "unknown",
+    "analyst_name": "MHeizler",
+    "arar_mapping": {
+        "Ar36": "Ar36",
+        "Ar37": "Ar37",
+        "Ar38": "Ar38",
+        "Ar39": "Ar39",
+        "Ar40": "Ar40"
+    },
+    "collection_version": "1.0:2.1",
+    "comment": "L:6 K-feldspar, 9.07 mg",
+    "commit": "86310c926baf16f0637855fe822f333f0e0d46e1",
+    "conditionals": [
+        {
+            "analysis_types": [],
+            "frequency": 10,
+            "hash_id": -1617425688218642324,
+            "level": 10,
+            "location": "setupfiles/spectrometer/default_conditionals.yaml",
+            "ntrips": 1,
+            "start_count": 5,
+            "teststr": "L2(CDD).deflection==3250"
+        }
+    ],
+    "data_reduction_software": "pychron 20.1.1",
+    "detectors": {
+        "AX": {
+            "deflection": 0.0,
+            "gain": 0.01185
+        },
+        "H1": {
+            "deflection": 0.0,
+            "gain": 0.104399
+        },
+        "H2": {
+            "deflection": 0.0,
+            "gain": 1.0
+        },
+        "L1": {
+            "deflection": 0.0,
+            "gain": 0.9831
+        },
+        "L2(CDD)": {
+            "deflection": 0.0,
+            "gain": 0.0
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [
+            {
+                "device": "EnvironmentalMonitor",
+                "name": "Lab Hum.",
+                "pub_date": "2021-10-13T18:57:43",
+                "title": "iServer Hum.",
+                "value": 19.4
+            },
+            {
+                "device": "RPiWeather",
+                "name": "Lab Hum. 2",
+                "pub_date": "2021-10-13T19:33:02",
+                "title": "Base Station Hum.",
+                "value": 22.4473934173584
+            },
+            {
+                "device": "NOAA",
+                "name": "Outside Humidity",
+                "pub_date": "2021-10-13T19:22:59",
+                "title": "",
+                "value": 20.0
+            }
+        ],
+        "lab_pneumatics": [
+            {
+                "device": "AirPressure",
+                "name": "Pressure",
+                "pub_date": "2021-10-13T19:00:55",
+                "title": "Building",
+                "value": 99.9
+            },
+            {
+                "device": "AirPressure2",
+                "name": "Pressure2",
+                "pub_date": "2021-10-13T19:00:55",
+                "title": "Lab",
+                "value": 101.4
+            },
+            {
+                "device": "RPiWeather",
+                "name": "Lab Pressure",
+                "pub_date": "2021-10-13T19:12:57",
+                "title": null,
+                "value": 857.12939453125
+            },
+            {
+                "device": "MicroBoneGaugeController",
+                "name": "JanDecabinPressure",
+                "pub_date": "2021-10-13T19:35:58",
+                "title": "Jan Decabin",
+                "value": 8.0
+            }
+        ],
+        "lab_temperatures": [
+            {
+                "device": "EnvironmentalMonitor",
+                "name": "Lab Temp.",
+                "pub_date": "2021-10-13T19:27:47",
+                "title": "iServer Temp.",
+                "value": 70.5
+            },
+            {
+                "device": "Chiller",
+                "name": "Coolant Temp.",
+                "pub_date": "2021-10-13T19:40:58",
+                "title": "Coolant",
+                "value": 16.1
+            },
+            {
+                "device": "RPiWeather",
+                "name": "Lab Temp. 2",
+                "pub_date": "2021-10-13T19:22:58",
+                "title": "Base Station Temp.",
+                "value": 77.4318588256836
+            },
+            {
+                "device": "RPiWeather",
+                "name": "Lab Temp. 3",
+                "pub_date": "2021-10-13T18:52:54",
+                "title": "EastDiffuser01",
+                "value": 55.2866
+            },
+            {
+                "device": "RPiWeather",
+                "name": "Lab Temp. 4",
+                "pub_date": "2021-10-13T19:33:02",
+                "title": "EastReturn02",
+                "value": 66.5366
+            },
+            {
+                "device": "RPiWeather",
+                "name": "Lab Temp. 5",
+                "pub_date": "2021-10-13T19:22:59",
+                "title": "iServerCalibration03",
+                "value": 70.3616
+            },
+            {
+                "device": "RPiWeather",
+                "name": "Lab Temp. 6",
+                "pub_date": "2021-10-13T18:22:46",
+                "title": "SouthWall04",
+                "value": 69.125
+            },
+            {
+                "device": "RPiWeather",
+                "name": "Lab Temp. 7",
+                "pub_date": "2021-10-13T19:33:02",
+                "title": "SouthWindow05",
+                "value": 68.3366
+            },
+            {
+                "device": "NOAA",
+                "name": "Outside Temp",
+                "pub_date": "2021-10-13T19:22:59",
+                "title": "Outside Temp.",
+                "value": 55.0
+            }
+        ]
+    },
+    "experiment_queue_name": "CurrentExperiment",
+    "experiment_type": "Ar/Ar",
+    "extraction": "felix_furnace.py",
+    "grainsize": "",
+    "hops": "",
+    "identifier": "68473",
+    "increment": 28,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "NM-316",
+    "irradiation_level": "L",
+    "irradiation_position": 6,
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)",
+            "name": "Ar36",
+            "serial_id": "00000",
+            "units": "fA"
+        },
+        "Ar37": {
+            "detector": "L1",
+            "name": "Ar37",
+            "serial_id": "00000",
+            "units": "fA"
+        },
+        "Ar38": {
+            "detector": "AX",
+            "name": "Ar38",
+            "serial_id": "00000",
+            "units": "fA"
+        },
+        "Ar39": {
+            "detector": "H1",
+            "name": "Ar39",
+            "serial_id": "00000",
+            "units": "fA"
+        },
+        "Ar40": {
+            "detector": "H2",
+            "name": "Ar40",
+            "serial_id": "00000",
+            "units": "fA"
+        }
+    },
+    "laboratory": "",
+    "latitude": 0.0,
+    "lithology": "",
+    "lithology_class": "",
+    "lithology_group": "",
+    "lithology_type": "",
+    "longitude": 0.0,
+    "mass_spectrometer": "Felix",
+    "material": "K-Feldspar",
+    "measurement": "felix_analysis340_60_CDD_center.py",
+    "post_equilibration": "felix_pump_extraction_line.py",
+    "post_measurement": "felix_pump_ms.py",
+    "principal_investigator": "Grambling, T",
+    "project": "Grambling01329",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Grambling01329",
+    "rlocation": "",
+    "sample": "MJC19-12",
+    "source": {
+        "emission": 727.47,
+        "trap": 248.831
+    },
+    "spec_sha": "cb0c17cac7af238d7c6f9cffc6b43b7636e3918e",
+    "timestamp": "2021-10-13T19:41:48.097643",
+    "tripped_conditional": null,
+    "unit": "",
+    "username": "MHeizler",
+    "uuid": "5abbbd1e-f960-4ebd-8a97-9498fbb20e91",
+    "whiff_result": null
+}
