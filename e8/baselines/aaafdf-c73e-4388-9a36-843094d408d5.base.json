@@ -1,0 +1,67 @@
+{
+    "AX(CDD)": {
+        "error": 1.1027429696791495e-22,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "average",
+        "modifier_error": 2.4849668371591446e-06,
+        "modifier_value": 2.4465060899510136e-06,
+        "value": 2.4465060899510128e-06
+    },
+    "H1": {
+        "error": 0.007730538348565327,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "average",
+        "modifier_error": 0.0,
+        "modifier_value": 0.0,
+        "value": 0.013067112356441217
+    },
+    "H2": {
+        "error": 0.016687761722909006,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "average",
+        "modifier_error": 0.0,
+        "modifier_value": 0.0,
+        "value": -0.07120057826412224
+    },
+    "L1": {
+        "error": 0.006374026163038416,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "average",
+        "modifier_error": 0.0,
+        "modifier_value": 0.0,
+        "value": -0.003177441729416293
+    },
+    "L2(CDD)": {
+        "error": 4.869635931295341e-06,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 10
+        },
+        "fit": "average",
+        "modifier_error": 6.574604267365836e-07,
+        "modifier_value": 1.7125542629657097e-07,
+        "value": 7.117075037570571e-06
+    }
+}
